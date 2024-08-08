@@ -7,6 +7,7 @@
 # 2. Identify hourly, daily, and week of the year search patterns.
 - Use groupby and plot to show each.
 - Trend observations:
+
             1) starting ~9AM and peaks in the evening with highest traffic around midnight.
             2) Tuesday's are the busiest traffic day of the week.  Bulk of the traffic is Monday through Friday.  Weekends search trends are low.
             3) From a week of the year perspective, Q1 is the busiest search traffic period of the year.  Search seems to level off through middle of the year and drops significantly around week 35.  But then sales start to build again leading in to Q4 with highest periods (Q4) ~Nov and December--likely due to Black Friday/Cyber Monday and holiday sales taffic ramps.
@@ -34,6 +35,6 @@ Observation:
 - Late September seems to be the lowest search traffic period of the year.
 
 ---
-Challenge 9, UNC AI Bootcamp
+Challenge 8, UNC AI Bootcamp
 Completed by Louis Canjar
 
